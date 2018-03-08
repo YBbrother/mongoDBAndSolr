@@ -1,0 +1,2 @@
+# mongoDBAndSolr
+SSM + mongoDB + Solr
